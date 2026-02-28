@@ -13,6 +13,7 @@ this is NOT a calc app
 - **Infinite stamina**
 - **No skill cooldown**
 - **Teleport**(But its broken)
+come complain to me on my [discord server](https://discord.gg/c58NSsTN)
 
 Player stuff:
 ![Player](Player.PNG)
@@ -22,4 +23,4 @@ World stuff:
 
 
 
-come complain to me on my [discord server](https://discord.gg/c58NSsTN)
+
