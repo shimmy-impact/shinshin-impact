@@ -1,8 +1,25 @@
-# shinshin-impact v6.3
-shinshin-impact 6.3
+# shinshin-impact 6.4 (Genshin Impact Cheeto)
 
-Just a practice calc app
-(Calc is short for calculator btw)
+**cheeto for gensen impact**
+
+this is NOT a calc app
+(Calc is short for calculator btw). 
 
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20my%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/c58NSsTN)
+## CURRENT features
+
+- **Skip video cutscenes**
+- **Time scaling**
+- **Infinite stamina**
+- **No skill cooldown**
+- **Teleport**(But its broken)
+
+Player stuff:
+![Player](Player.png)
+
+World stuff:
+![World](World.png)
+
+
+
+come complain to me on my [discord server](https://discord.gg/c58NSsTN)
