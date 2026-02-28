@@ -15,10 +15,10 @@ this is NOT a calc app
 - **Teleport**(But its broken)
 
 Player stuff:
-![Player](Player.png)
+![Player](Player.PNG)
 
 World stuff:
-![World](World.png)
+![World](World.PNG)
 
 
 
