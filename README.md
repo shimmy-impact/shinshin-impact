@@ -18,8 +18,7 @@ this is NOT a calc app
 - Skip Video cutscenes
 - Teleport(with custom group teleports)
 
-
-come complain to me on my [discord server](https://discord.gg/c58NSsTN)
+come complain to me on my [discord server](https://discord.gg/RjRyBVcEce)
 
 Player stuff:
 
