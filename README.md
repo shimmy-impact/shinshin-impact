@@ -6,11 +6,11 @@ this is NOT a calc app
 (Calc is short for calculator btw). 
 
 ## CURRENT features
-- God Mode - Take no damage
-- Multi Hit - Hit enemies multiple times per attack
-- Infinite Stamina - Never run out of stamina
-- Infinite E skill - Spam your E
-- Infinite Ultimate - Spam your burst
+- God Mode
+- Multi Hit
+- Infinite Stamina
+- Infinite E skill
+- Infinite Ultimate
 - Sprint CD
 - Attack Multiplier
 - noclip(WIP)
