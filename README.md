@@ -24,8 +24,10 @@ come complain to me on my [discord server](https://discord.gg/c58NSsTN)
 Player stuff:
 ![Player](Player.PNG)
 
+
 World stuff:
 ![World](World.PNG)
+
 
 Teleport stuff:
 ![Teleport](teleport.PNG)
