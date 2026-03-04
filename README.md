@@ -1,6 +1,6 @@
-# shinshin-impact 6.4 (Genshin Impact Cheeto)
+# shimmy-impact 6.4 (Cheeto)
 
-**cheeto for gensen(Shinshin) impact**
+**cheeto for shimmy impact**
 
 this is NOT a calc app
 (Calc is short for calculator btw). 
